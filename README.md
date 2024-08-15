@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **beegle98/beegle98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# CHA JUNG MUN 😄
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckwjdans)](https://solved.ac/ckwjdans/)
