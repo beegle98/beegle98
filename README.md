@@ -6,7 +6,7 @@
 ![beegle98 profile](http://mazandi.herokuapp.com/api?handle=ckwjdans&theme=warm)
 
 ![beegle98's GitHub stats](https://github-readme-stats.vercel.app/api?username=beegle98&show_icons=true&theme=radical)
-# 💪Skills
+# 💻Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beegle98&layout=compact&theme=dark)
 
 ### ✨Platforms & Languages✨
