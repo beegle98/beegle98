@@ -30,7 +30,6 @@
 ![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F.svg?&style=flat-square&logo=springsecurity&logoColor=white)
 ![SpringCloud](https://img.shields.io/badge/SpringCloud-6DB33F.svg?&style=flat-square&logo=spring&logoColor=white)
 ![junit5](https://img.shields.io/badge/JUnit5-25A162.svg?&style=flat-square&logo=junit5&logoColor=white)
-![k6](https://img.shields.io/badge/K6-7D64FF.svg?&style=flat-square&logo=k6&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=flat-square&logo=postgresql&logoColor=white)
@@ -52,6 +51,8 @@
 
 <!--
 배울 예정
+![k6](https://img.shields.io/badge/K6-7D64FF.svg?&style=flat-square&logo=k6&logoColor=white)
+
 ![amazonrds](https://img.shields.io/badge/Amazon%20RDS-527FFF.svg?&style=flat-square&logo=amazonrds&logoColor=white)
 ![amazonroute53](https://img.shields.io/badge/Amazon%20Route%2053-8C4FFF.svg?&style=flat-square&logo=amazonroute53&logoColor=white)
 
