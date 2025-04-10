@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&customColorList=0,2,3&height=300&section=header&text=Beegle&fontSize=90" />
  
  # CHA JUNG MUN 😎
 
