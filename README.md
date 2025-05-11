@@ -25,6 +25,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white)
 
 ### 📖Now Studying📖
+![React](https://img.shields.io/badge/React-00599C.svg?&style=flat-square&logo=react&logoColor=white)
 
 ![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F.svg?&style=flat-square&logo=springsecurity&logoColor=white)
 ![SpringCloud](https://img.shields.io/badge/SpringCloud-6DB33F.svg?&style=flat-square&logo=spring&logoColor=white)
